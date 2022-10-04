@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanny Wijaya</h1>
-<h3 align="center">A passionate Computer Science student focusing in Database</h3>
+<h3 align="center">A third year Computer Science student focusing in Database</h3>
 
 - 🔭 I’m currently studying in **Binus University**
 
