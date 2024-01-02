@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hanny Wijaya</h1>
-<h3 align="center">A third year Computer Science student focusing in Database</h3>
+<h3 align="center">A Final year Computer Science student focusing in Database</h3>
 
 - 🔭 I’m currently studying in **Binus University**
 
-- 🌱 I’m currently learning **HTML, CSS, Python, SQL, PHP, and others**
+- 🌱 I’m currently learning **Python, SQL, PHP, HTML, CSS, and others**
 
 - 📫 How to reach me **gabriellahannyw@gmail.com**
 
